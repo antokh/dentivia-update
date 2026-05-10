@@ -1,0 +1,24 @@
+{
+    "channel":  "stable",
+    "version":  "0.1.49",
+    "tag":  "v0.1.49",
+    "generatedAt":  "2026-05-10T18:42:36.7035845Z",
+    "releaseUrl":  "https://github.com/antokh/dentivia-update/releases/tag/v0.1.49",
+    "notesUrl":  "https://github.com/antokh/dentivia-update/releases/tag/v0.1.49",
+    "assets":  [
+                   {
+                       "kind":  "server",
+                       "name":  "Dentivia Server Setup 0.1.49.exe",
+                       "size":  102904549,
+                       "sha256":  "86bc9cbf68f0a78b3d277ecb1b7d9e751eeffa07790088e271127c3b3b634ee7",
+                       "downloadUrl":  "https://github.com/antokh/dentivia-update/releases/download/v0.1.49/Dentivia%20Server%20Setup%200.1.49.exe"
+                   },
+                   {
+                       "kind":  "desktop",
+                       "name":  "Dentivia Setup 0.1.49.exe",
+                       "size":  82015547,
+                       "sha256":  "329d36d9d0d30b69ff3bb3a914c17cb6705e7619af4a8a89d4f29a330ab311eb",
+                       "downloadUrl":  "https://github.com/antokh/dentivia-update/releases/download/v0.1.49/Dentivia%20Setup%200.1.49.exe"
+                   }
+               ]
+}
