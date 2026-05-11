@@ -1,24 +1,24 @@
 {
     "channel":  "stable",
-    "version":  "0.1.60",
-    "tag":  "v0.1.60",
-    "generatedAt":  "2026-05-10T21:19:16.7879232Z",
-    "releaseUrl":  "https://github.com/antokh/dentivia-update/releases/tag/v0.1.60",
-    "notesUrl":  "https://github.com/antokh/dentivia-update/releases/tag/v0.1.60",
+    "version":  "0.1.62",
+    "tag":  "v0.1.62",
+    "generatedAt":  "2026-05-11T06:36:44.7890654Z",
+    "releaseUrl":  "https://github.com/antokh/dentivia-update/releases/tag/v0.1.62",
+    "notesUrl":  "https://github.com/antokh/dentivia-update/releases/tag/v0.1.62",
     "assets":  [
                    {
                        "kind":  "server",
-                       "name":  "Dentivia.Server.Setup.0.1.60.exe",
-                       "size":  102913107,
-                       "sha256":  "d56620a376bd5b1e3c9280b169c63ef46ecb3829f6e89f7c2a175ae60eb7df9b",
-                       "downloadUrl":  "https://github.com/antokh/dentivia-update/releases/download/v0.1.60/Dentivia.Server.Setup.0.1.60.exe"
+                       "name":  "Dentivia.Server.Setup.0.1.62.exe",
+                       "size":  102930409,
+                       "sha256":  "00bba8b410cf60ca0229722dadce4d899ddafbc440fe02e5ba7bca29cf07c7c6",
+                       "downloadUrl":  "https://github.com/antokh/dentivia-update/releases/download/v0.1.62/Dentivia.Server.Setup.0.1.62.exe"
                    },
                    {
                        "kind":  "desktop",
-                       "name":  "Dentivia.Setup.0.1.60.exe",
-                       "size":  82023203,
-                       "sha256":  "39575401c35d1d664831ff3af92746e34346d0c8c564c4969a6ec17629b7a767",
-                       "downloadUrl":  "https://github.com/antokh/dentivia-update/releases/download/v0.1.60/Dentivia.Setup.0.1.60.exe"
+                       "name":  "Dentivia.Setup.0.1.62.exe",
+                       "size":  82023153,
+                       "sha256":  "424d3e940f905935024565d85854ba0c08264756499d2d3386fe1a65420ef406",
+                       "downloadUrl":  "https://github.com/antokh/dentivia-update/releases/download/v0.1.62/Dentivia.Setup.0.1.62.exe"
                    }
                ]
 }
